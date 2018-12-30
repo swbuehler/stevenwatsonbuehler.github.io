@@ -1,4 +1,4 @@
-Sitemap: http://blog.penso.info/sitemap.xml
+Sitemap: http://www.stevenwatsonbuehler.com/sitemap.xml
 
 User-agent: *
 Disallow: /img/
