@@ -6,6 +6,9 @@
 				color: #333;
 				font: 16px/1.5 'Fira Sans','Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 			}
+			.myName {
+				font: 'ZCOOL XiaoWei';
+			}
 			.header {
 				font-size: 1.0em;
 			}
