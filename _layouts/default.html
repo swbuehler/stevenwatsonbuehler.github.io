@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		{% if page.title %}
+		<title>{{ page.title }} — Steven Watson Buehler</title>
+		{% else %}
+		<title>Steven Watson Buehler</title>
+		{% endif %}
+
+		<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+		<link href='//fonts.googleapis.com/css?family=Vollkorn:400italic|Roboto+Slab|Fjalla+One&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+		
+		<link href="/css/main.css" rel="stylesheet" />
+		<link href="/css/pygments.min.css" rel="stylesheet" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="keywords" content="{{page.categories | join: ', '}}"/>
+		<meta charset="utf-8">
+		<link href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAYAAABPYyMiAAAABmJLR0T///////8JWPfcAAAACXBIWXMAAABIAAAASABGyWs+AAAAF0lEQVRIx2NgGAWjYBSMglEwCkbBSAcACBAAAeaR9cIAAAAASUVORK5CYII=" rel="icon" type="image/x-icon" />
+
+
+		<link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/atom.xml" />
+		<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/feed.xml" />
+
+		<meta content="{{ site.title }}" property="og:site_name" />
+
+		{% if page.title %}
+		<meta content="{{ page.title | escape }}" property="og:title" />
+		<meta property="twitter:title" content="{{ page.title | escape }}" />
+		{% else %}
+		<meta content="{{ site.title | escape }}" property="og:title" />
+		<meta property="twitter:title" content="{{ site.title | escape }}" />
+		{% endif %}
+
+		{% if page.title %}
+		<meta content="article" property="og:type" />
+		{% else %}
+		<meta content="website" property="og:type" />
+		{% endif %}
+
+		{% if page.description %}
+		<meta content="{{ page.description | escape }}" property="og:description" />
+		<meta property="twitter:description" content="{{ page.description | escape }}" />
+		<meta content="{{ page.description | escape }}" property="description" />
+		{% elsif page.content %}
+		<meta content="{{ page.content | strip_html | truncate: 300 | strip_newlines_with_space | escape }}" property="og:description" />
+		<meta property="twitter:description" content="{{ page.content | strip_html | truncate: 200 | | strip_newlines_with_space | escape }}" />
+		{% else %}
+		<meta content="{{ site.description | escape }}" property="og:description" />
+		<meta property="twitter:description" content="{{ site.description | escape }}" />
+		{% endif %}
+
+		{% if page.url %}
+		<meta content="{{ site.url }}{{ page.url }}" property="og:url" />
+		{% endif %}
+
+		{% if page.date %}
+		<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time" />
+		<meta content="{{ site.url }}/contact" property="article:author" />
+
+		<meta property="twitter:card" content="summary" />
+		<meta property="twitter:site" content="@stevenwatsonb" />
+
+		<meta property="twitter:creator" content="@stevenwatsonb" />
+		{% endif %}
+
+		<meta name="author" content="Steven Watson Buehler" />
+
+		{% if page.photo_social %}
+		  <meta content="{{ page.photo_social }}" property="og:image" />
+		  <meta property="twitter:image:src" content="{{ page.photo_social }}" />
+		{% else %}
+		{% if page.photo %}
+		<meta content="{{ page.photo }}" property="og:image" />
+		<meta property="twitter:image:src" content="{{ page.photo }}" />
+		{% else %}
+		{% if page.image %}
+		<meta content="{{ site.url }}/assets/img/posts/{{ page.image }}" property="og:image" />
+		<meta property="twitter:image:src" content="{{ site.url }}/assets/img/posts/{{ page.image }}" />
+		{% endif %}
+		{% endif %}
+		{% endif %}
+		{% if page.categories %}
+		{% for category in page.categories limit:1 %}
+		<meta content="{{ category }}" property="article:section" />
+		{% endfor %}
+		{% endif %}
+	</head>
+	<body>
+			<div class="top_name">
+				<div class="container-narrow">
+					<div class="hidden-xs hidden-sm" id="stick-avatar">
+						<div class="post-author-card">
+							<div class="picture">
+								<a href="/"><img src="/img/avatar.jpg" class="img-circle" width="95" alt="Me"></a>
+							</div>
+						</div>
+					</div>
+				<h1><a href="/"><b>Fabien Penso</b></a></h1>
+				<p>Hi, I'm Steven, and I'm awkward&trade;.</p>
+				<div class="navbartop">
+					<div class="pull-right nolinkcolor header">
+						<ul class="nav nav-pills">
+							{% for node in site.toplinks %}
+							{% capture node_name %}/{{ node }}/{% endcapture %}
+							{% if node_name == page.url %}
+							<li class="active"><a href="/{{node}}" class="active">{{node | capitalize}}</a></li>
+							{% else %}
+							<li><a href="/{{node}}">{{node | capitalize}}</a></li>
+							{% endif %}
+							{% endfor %}
+
+							<li>
+							<a href="http://twitter.com/stevenwatsonb">@stevenwatsonb</a>
+							</li>
+						</ul>
+					</div>
+					<ul class="nav nav-pills nolinkcolor hidden-xs">
+						<li><a href="/">Home</a></li>
+					</ul>
+				</div>
+				</div>
+			<div class="clearfix"></div>
+			</div>
+
+			<div class="clearfix"></div>
+
+		<div class="container-narrow">
+			<div id="website-content">
+				{{ content }}
+			</div>
+
+			<div class="social_icons">
+				<div class="col-md-6">
+					<a href="http://github.com/swbuehler" title="Github"><img src="/img/github-icon.png" width="30" height="30" alt="Github"/></a>
+					<a href="http://twitter.com/stevenwatsonb" title="Twitter"><img src="/img/twitter-icon.png" width="30" height="30" alt="Twitter"/></a>
+					<a href="http://www.facebook.com/stevenwatsonbuehler" title="Facebook"><img src="/img/facebook-icon.png" width="30" height="30" alt="Facebook"/></a>
+					<a href="http://www.linkedin.com/in/stevenwatsonb" title="LinkedIn"><img src="/img/linkedin-icon.png" width="30" height="30" alt="LinkedIn"/></a>
+					<a href="/atom.xml"><img src="/img/rss-icon.png" width="30" height="30" alt="RSS"/></a>
+				</div>
+			</div>
+
+			<script type="text/javascript">
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-101506026-3']);
+				_gaq.push(['_trackPageview']);
+				setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])", 15000);
+
+				(function() {
+				 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				 })();
+
+				// Add a script element as a child of the body
+				function downloadJSAtOnload() {
+					var a = ["http://code.jquery.com/jquery.min.js", "/js/jquery-footnotes.min.js", "//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"];
+					var element=null;
+					for (index = 0; index < a.length; ++index) {
+						element = document.createElement("script");
+						element.src = a[index];
+						document.body.appendChild(element);
+					}
+				}
+
+				// Check for browser support of event handling capability
+				if (window.addEventListener)
+					window.addEventListener("load", downloadJSAtOnload, false);
+				else if (window.attachEvent)
+					window.attachEvent("onload", downloadJSAtOnload);
+				else window.onload = downloadJSAtOnload;
+
+			 </script>
+		</div>
+
+	</body>
+</html>

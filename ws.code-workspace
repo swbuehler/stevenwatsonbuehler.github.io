@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "_drafts"
+		},
+		{
+			"path": ".bundle"
+		},
+		{
+			"path": "_includes"
+		},
+		{
+			"path": "_layouts"
+		},
+		{
+			"path": "_plugins"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "_posts"
+		},
+		{
+			"path": "spec"
+		}
+	]
+}
