@@ -21,7 +21,7 @@ task :sitemap do
 	Net::HTTP.get(
 		'www.google.com',
 		'/webmasters/tools/ping?sitemap=' +
-		URI.escape('http://blog.penso.info/sitemap.xml')
+		URI.escape('http://www.stevenwatsonbuehler.com/sitemap.xml')
 	)
 end
 
@@ -30,7 +30,7 @@ task :pingomatic do
   begin
     require 'xmlrpc/client'
     puts '* Pinging ping-o-matic'
-    XMLRPC::Client.new('rpc.pingomatic.com', '/').call('weblogUpdates.extendedPing', 'Fabien Penso' , 'http://blog.penso.info', 'http://blog.penso.info/atom.xml')
+    XMLRPC::Client.new('rpc.pingomatic.com', '/').call('weblogUpdates.extendedPing', 'Steven Watson Buehler' , 'http://www.stevenwatsonbuehler.com', 'http://www.stevenwatsonbuehler.com/atom.xml')
   rescue LoadError
     puts '! Could not ping ping-o-matic, because XMLRPC::Client could not be found.'
   end
