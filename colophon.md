@@ -22,6 +22,8 @@ At least 90 percent of my social interaction is over [Facebook](https://fb.me/st
 
 - [Visual Studio Code](https://code.visualstudio.com/) for editing just about everything, including this site.
 
+- [Corel VideoStudio Ultimate](https://www.videostudiopro.com/en/products/videostudio/?hptrack=en2bb5) for video editing (along with the built-in Photos video editor in a pinch).
+
 - [OneDrive](https://onedrive.live.com) for file storage and backup, included with my Office 365 account, and a [SharePoint Online](https://products.office.com/en-us/sharepoint/collaboration?ms.officeurl=sharepoint&rtc=1) site that I use as an online database and document repository.
 
 - [GIMP](https://www.gimp.org) for most image editing, although most of what I do uses text, for which doing it in PowerPoint and exporting to PNG does the job just as well.
@@ -58,7 +60,7 @@ I use Android as my mobile platform, since Windows Phone will be laid to rest to
 
 - The aforementioned Acer Chromebook 11 (CB3-111) that's approaching end of support.
 
-- The aforementioned HP Envy Note 8&Prime Windows tablet with a Lenovo active pen and keyboard folio.
+- The aforementioned HP Envy Note Model 5003 Windows tablet with a Lenovo active pen and keyboard folio (Model 5002 doesn't include the keyboard folio and pen).
 
 - A brother DSMobile 920DW mobile duplex scanner and an HP OfficeJet Pro 8600 Plus for going paperless, although I'm using my phone's camera more often for the same purpose.
 
