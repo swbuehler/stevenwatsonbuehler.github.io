@@ -4,7 +4,7 @@
 				padding-top: 0px;
 				padding-bottom: 40px;
 				color: #333;
-				font: 16px/1.5 'Fira Sans','Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+				font: 16px/1.5 Rosario,'Rosario','Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 			}
 			.myName {
 				font: 'ZCOOL XiaoWei';
@@ -100,7 +100,7 @@
 				font-size: 1.6em;
 			}
 			blockquote {
-				font: 400 20px/30px "Fira Sans";
+				font: 400 20px/30px "Rosario";
 				font-style: italic;
 				border-left: 4px solid #CCC;
 				padding: 10px 0px 1px 15px;
@@ -122,7 +122,7 @@
 			}
 			cite, cite a {
 				color: #c90707;
-				font: 400 1.0em/1.2em "Fira Sans";
+				font: 400 1.0em/1.2em "Rosario";
 				font-style: italic;
 			}
 
