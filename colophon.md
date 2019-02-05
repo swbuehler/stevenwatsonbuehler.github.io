@@ -8,9 +8,9 @@ Years ago I got inspired by [John Saddington](http://john.do) to include a colop
 
 ## Web tools.
 
-This site runs on the [Jekyll](https://jekyllrb.com/) engine, mainly for its simplicity, and is hosted on [Github](https://www.github.com). The content is publicly available in a [dedicated repository](https://github.com/swbuehler/swbuehler.github.io). The theme is based on the same one published by [Fabien Penso](http://blog.penso.info/), which is available in [this repository](https://github.com/penso/blog.penso.info) under an MIT license, and I continue to customize it as I feel like. I can write posts in HTML, Markdown (my preferred style), or Liquid, depending on the need.
+This site runs on the [Jekyll](https://jekyllrb.com/) engine, mainly for its simplicity with page editing, and is hosted on [Github](https://www.github.com). The content is publicly available in a [dedicated repository](https://github.com/swbuehler/swbuehler.github.io). The theme is based on the same one published by [Fabien Penso](http://blog.penso.info/), which is available in [this repository](https://github.com/penso/blog.penso.info) under an MIT license, and I continue to customize it as I feel like. I can write posts in HTML, Markdown (my preferred style), or Liquid, depending on the need.
 
-Over the last several months I've consolidated everything into a Windows-centric platform (mainly because I play games when I'm bored) and sold off or donated away all my Mac/Apple stuff. I use [Office 365 Personal](https://www.office.com) for most everything (especially Excel, the latest version of which handles JSON input spectacularly using "Get and Transform"), and some [Google Apps Script](https://script.google.com), [IFTTT](https://www.ifttt.com), and [Stringify](https://www.stringify.com) for doing a lot of things automatically. I use [Dash](https://dash.by) to keep track of mileage and vehicle issues. 
+I use [Office 365 Personal](https://www.office.com) and a small iCloud account for most everything (especially Excel, the latest version of which handles JSON input spectacularly using "Get and Transform"), and some [Google Apps Script](https://script.google.com), [IFTTT](https://www.ifttt.com), and [Stringify](https://www.stringify.com) for doing a lot of things automatically. I use [Dash](https://dash.by) to keep track of mileage and vehicle issues. 
 
 At least 90 percent of my social interaction is over [Facebook](https://fb.me/stevenwatsonbuehler), because that's where the people are that I interact with the most. I also post things to [Instagram](https://www.instagram.com/stevenwatsonb). I don't use [Twitter](https://www.twitter.com) any more, because it's too much noise.
 
@@ -30,21 +30,19 @@ At least 90 percent of my social interaction is over [Facebook](https://fb.me/st
 
 - [Lastpass](https://www.lastpass.com) for password management, and multiform authentication wherever possible. Also on my mobile devices.
 
-- [Spotify Premium](https://www.spotify.com) to feed my music addiction, also on mobile.
+- [Apple Music](https://www.apple.com/itunes/) to feed my music addiction, also on mobile.
+
+## Mac Tools.
+
+I have a VMWare virtual machine running a basic macOS Mojave install to manage data on my iPhone, and because Photos is still the best media organizer around (IMHO). Because it's not Apple hardware, I can't use it for Messages or Facetime; and because it's VMWare, anything requiring video acceleration (Maps, iMovie) just gives me a black screen. 
 
 ## Mobile Tools.
 
-I use Android as my mobile platform, since Windows Phone will be laid to rest toward the end of 2019. I was an Apple fanboi for a while but it's gotten too expensive and increasingly _less_ open. I currently use a Moto G<sup>5S</sup> Plus smartphone and either a Samsung Galaxy Tab A 10.1 tablet with S Pen or an HP Envy Note 5003 Windows tablet with keyboard folio depending on the intended use. Eventually I want to replace both with a Surface Go.  I've also got an original Acer Chromebook 11 that's nearing end of support. There's also an Alcatel IDOL 4S w/ Windows 10 around somewhere because I simply can't let go of it.
+I use <del>Android</del> iOS as my mobile platform, since Windows Phone will be laid to rest toward the end of 2019. <del>I was an Apple fanboi for a while but it's gotten too expensive and increasingly _less_ open</del> Now I see the method to their madness (especially privacy protections) and returned to the Apple fold. I currently use a <del>Moto G<sup>5S</sup> Plus</del> iPhone 6S (because it was cheap and does everything I need an iPhone to do) and either a Samsung Galaxy Tab A 10.1 tablet with S Pen or an HP Envy Note 5003 Windows tablet with keyboard folio depending on the intended use. There's also an Alcatel IDOL 4S w/ Windows 10 around somewhere because I simply can't let go of it.
 
-- [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher) for my home screen. 
+- The usual array of social apps: [Facebook](https://facebook.com), [Instagram](https://instagram.com), [TikTok](https://tiktok.com)&hellip; (the latter because I need a good laugh).
 
-- [Outlook](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook) for email, schedules, contacts, etc.
-
-- [Word](https://play.google.com/store/apps/details?id=com.microsoft.office.word), [Excel](https://play.google.com/store/apps/details?id=com.microsoft.office.excel), and [PowerPoint](https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint), just because they were preinstalled on the tablet.
-
-- [Edge](https://play.google.com/store/apps/details?id=com.microsoft.emmx) for web browsing (in reality, it's Chrome with a Microsoft overlay).
-
-- The usual array of social apps: Facebook, Instagram, TikTok&hellip; (the latter because I need a good laugh).
+- [Adobe Scan](https://acrobat.adobe.com/us/en/mobile/scanner-app.html) for scanning and converting documents, receipts, appointment cards, &c.
 
 ## Hardware/Analog Tools.
 
