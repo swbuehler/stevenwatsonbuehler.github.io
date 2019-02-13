@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Colophon
-date: 2018-12-30T13:25:00-04:00
+date: 2019-02-12
 ---
 
 Years ago I got inspired by [John Saddington](http://john.do) to include a colophon on my own site, the reason being that it's kind of fun to see what other people use. So, without further ado&hellip;
