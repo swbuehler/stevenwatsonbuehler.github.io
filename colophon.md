@@ -62,6 +62,6 @@ I use <del>Android</del> iOS as my mobile platform, since Windows Phone will be 
 
 - A brother DSMobile 920DW mobile duplex scanner and an HP OfficeJet Pro 8600 Plus for going paperless, although I'm using my phone's camera more often for the same purpose.
 
-- A Raspberry Pi 3B+ microserver for automating and testing things out.
+- <del>A Raspberry Pi 3B+ microserver for automating and testing things out.</del>
 
 - An '09 smart fortwo passion coupé for getting from A to B, with a bluetooth OBD adapter feeding data to the Dash app on my phone.
