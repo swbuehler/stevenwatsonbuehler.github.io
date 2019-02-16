@@ -64,6 +64,6 @@ I have a VMWare virtual machine running a basic macOS Mojave install to manage d
 
 - A brother [DSMobile 920DW](https://www.brother-usa.com/products/ds920dw) mobile duplex scanner and an [HP OfficeJet Pro 8600 Plus](https://support.hp.com/us-en/product/hp-officejet-pro-8600-plus-e-all-in-one-printer-series-n911/4322915) for going paperless, although I'm using my phone's camera more often for the same purpose.
 
-- <del>A Raspberry Pi 3B+ microserver for automating and testing things out.</del>
+- A Raspberry Pi 3B+ microserver for automating and testing things out.
 
 - An ['09 smart fortwo passion coupé](https://www.msn.com/en-us/autos/smart/fortwo/2009/sd-AAbLhrv) for getting from A to B, with a bluetooth OBD adapter feeding data to the [Dash](https://dash.by) app on my phone.
