@@ -25,29 +25,32 @@ My Windows machine is mostly for gaming. It was gifted to me to replace my dead 
 - Nvidia&reg; GeForce GTX&trade; 1070 GPU w/ 6 GB GDDR
 - Intel HD Graphics 630 Low-Power GPU
 - 16 GB DDR4 RAM
+- 128 GB m.2 SSD + 1 TB Internal HDD
 - 15.6&Prime; 1920&times;1080 GSync-compatible laptop display
 - LG 32BK330 LCD Television (as a gaming display for both this and the Xbox)
 - Razer&reg; Blackwidow Chroma (v1) Keyboard
 - Lenovo&reg; Y Gaming Precision Optical Mouse
 - Lenovo Y Gaming Stereo Headset
 
+**Microsoft&reg; Xbox&reg; One** (500 GB, bought as a refurbished unit)
+
 **[Apple](https://www.apple.com/mac-mini) Mac mini** (2018)
 
-This is my main everyday machine, and it's also the streaming/broadcastng part of my gaming setup.
+This is my main everyday machine, and it's also the streaming/broadcastng part of my gaming setup. For the relatively "minimal" specs that it has, it is amazingly nimble, and it handles much more than previous two i5-based Mac minis, including the input from the [Elgato®](http://www.elgato.com) Game Capture, which none of my previous units could keep up with.
 
 - Intel Core i3-8100B CPU Quad Core @ 3.60GHz[^1]
 - Intel UHD Graphics 630
 - 8 GB DDR4 RAM
-- Asus&reg; VS278Q-P 27&Prime; 1920&times;1070 LCD desktop display
+- 128 GB Internal Flash storage + 4 TB dock-connected HDD
+- Asus&reg; VS278Q-P 27&Prime; 1920&times;1080 LCD desktop display
 - Logitech&reg; [Wireless Solar Keyboard K750](http://www.logitech.com/k750) for Mac
 - Logitech [Wireless Mouse M510](https://www.logitech.com/en-us/product/wireless-mouse-m510)
 - APC 7-port USB 2.x hub (connected to one of the Mac's Thunderbird 3/USB 3.1 ports with an adapter)
 - Logitech [HD Pro Webcam C920](https://www.logitech.com/en-us/product/hd-pro-webcam-c920s?crid=34), without the privacy cover.
-- Elgato Game Capture HD
+- Elgato Game Capture HD&mdash;hoping to switch this out for [AVerMedia's Live Gamer Portable](https://www.avermedia.com/event/GC513/), as Elgato's device requires specialized software in macOS and doesn't integrate into macOS' version of [OBS](https://obsproject.com/).
 
 **Apple iPhone 6S** (32 GB)
 
 **Apple iPad** (6th Generation w/ Apple Pencil, 32 GB)
-
 
 [^1]: If you use **About This Mac** from the Apple menu, it will only tell you the basic name of the chip ("3.6 GHz Intel Core i3"). To get the full chip model, open Terminal and use the command `sysctl -n machdep.cpu.brand_string`.
