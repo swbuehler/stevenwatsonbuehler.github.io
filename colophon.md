@@ -11,9 +11,9 @@ Years ago I got inspired by [John Saddington](http://john.do) to include a colop
 
 This site runs on the [Jekyll](https://jekyllrb.com/) engine, mainly for its simplicity with page editing, and is hosted on [Github](https://www.github.com). The content is publicly available in a [dedicated repository](https://github.com/swbuehler/swbuehler.github.io). The theme is based on "Simple" by wildflame; you can find out more using the link in the footer below. I've modified the styles slightly but it's otherwise pretty much off-the-shelf.
 
-I use [Office 365 Personal](https://www.office.com) and Apple's iWork apps (Pages, Numbers, Keynote) and a <del>small</del> 2-terabyte iCloud account for most everything (especially Excel, the latest version of which handles JSON input spectacularly using "Get and Transform"), and some [Google Apps Script](https://script.google.com), [IFTTT](https://www.ifttt.com), and [Stringify](https://www.stringify.com) for doing a lot of things automatically. I use [Dash](https://dash.by) to keep track of mileage and vehicle issues. Starting to play around with iOS' [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) app for some on-the-fly stuff as well.
+I use Apple's iWork apps (Pages, Numbers, Keynote), a <del>small</del> 2-terabyte iCloud account, and a whole lot of scripting in Python, AppleScript, and PowerShell Core for most everything. I use [Dash](https://dash.by) to keep track of mileage and vehicle issues. Starting to play around with iOS' [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) app for some on-the-fly stuff as well.
 
-At least 90 percent of my social interaction is over [Facebook](https://fb.me/stevenwatsonbuehler), because that's where the people are that I interact with the most. I also post things to [Instagram](https://www.instagram.com/stevenwatsonb). <del>I don't use [Twitter](https://www.twitter.com) any more, because it's too much noise.</del> I signed back up for Twitter, but it'll probably just be automated notifications.
+At least 90 percent of my social interaction is over [Facebook](https://fb.me/stevenwatsonbuehler), because that's where the people are that I interact with the most. I also post things to [Instagram](https://www.instagram.com/doombuggy_). <del>I don't use [Twitter](https://www.twitter.com) any more, because it's too much noise.</del> I signed back up for Twitter, but it'll probably just be automated notifications.
 
 ## Hardware Tools.
 
@@ -47,7 +47,7 @@ This is my main everyday machine, and it's also the streaming/broadcastng part o
 - Logitech [Wireless Mouse M510](https://www.logitech.com/en-us/product/wireless-mouse-m510)
 - APC 7-port USB 2.x hub (connected to one of the Mac's Thunderbird 3/USB 3.1 ports with an adapter)
 - Logitech [HD Pro Webcam C920](https://www.logitech.com/en-us/product/hd-pro-webcam-c920s?crid=34), without the privacy cover.
-- Elgato Game Capture HD&mdash;hoping to switch this out for [AVerMedia's Live Gamer Portable](https://www.avermedia.com/event/GC513/), as Elgato's device requires specialized software in macOS and doesn't integrate into macOS' version of [OBS](https://obsproject.com/).
+- [AVerMedia Live Gamer Portable 2 Plus](https://www.avermedia.com/event/GC513/) for video capture, recording, and streaming.
 
 **Apple iPhone 6S** (32 GB)
 
