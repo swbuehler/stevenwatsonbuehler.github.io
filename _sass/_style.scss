@@ -40,7 +40,7 @@ body {
     text-align: center;
     font-size: 20px;
     margin-bottom: 20px;
-    font-family: 'Roboto Mono', 'sans-serif';
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
     @media (max-width: $break-small) {
         height: 100%;
         font-size: 17px;
@@ -156,7 +156,7 @@ footer {
     text-align: center;
     margin: auto;
     font-size: 30px;
-    font-family: 'Montserrat';
+    font-family: 'IBM Plex Sans';
 }
 .container {
     max-width: $max-width;
@@ -250,7 +250,7 @@ footer {
 * * * * * * * * * * * */
 
 .post-date {
-    font-family: 'Montserrat';
+    font-family: 'IBM Plex Sans';
     font-weight: lighter;
 }
 
