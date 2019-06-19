@@ -1,15 +1,27 @@
 ---
 layout: about
-title: accent
-author: Ankit Sultana
+title: About Me @ Random
+author: Steven W. Buehler
 permalink: /about
 ---
 
-Hi! My name is yourname!
+- I'm a "late-40-something" with high-functioning autism living on my own around Tampa Bay in Florida. I was diagnosed in 2005.
 
-> One shalt not speak shakespearean, or brocolli McDonalds
+- I have loved and lost twice&mdash;dumped and divorced the first time, quite abruptly widowed the second time.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- I grew up in Santa Ana, California, and moved to Florida in the middle of 2000 (literally; I arrived here on July 1, 2000).
 
+- I'm a shameless theme park wanderer. [Walt Disney World](https://www.waltdisneyworld.com), [Busch Gardens Tampa Bay](https://buschgardens.com/tampa), and [SeaWorld Orlando](https://seaworld.com/orlando) are my playgrounds.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- My car is called the `#doombuggy`. It's a black and silver [Smart fortwo](https://www.smartusa.com) that's not much larger than Disney's "doom buggy" Omnimover vehicles inside "The Haunted Mansion" and its offspring.
+
+- My car is also temporarily called the `#weedmobile`, because the expiration sticker reads "04-20". 
+
+- I work full-time as a Data/Reporting Analyst (see my [Disclosures](/disclosures.md)). I play with data for a living as well as for fun.
+
+- I play games on PC, Xbox One&trade;, and Nintendo Switch&trade;.
+
+- I broadcast my gameplay on [Twitch](https://twitch.tv/doombuggygames), [Mixer](https://mixer.com/doombuggygames), YouTube, [Mobcrush](https://www.mobcrush.com/doombuggygames), and [Facebook Gaming](https://gaming.facebook.com/DoombuggyGames).
+
+- I'm a [musician](https://soundcloud.com/inmysilence).
+
