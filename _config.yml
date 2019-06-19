@@ -16,7 +16,7 @@ description: >
     Steven Bueher is a late-40-something autistic guy living on his own in Tampa Bay, Florida. Plays with games and data. 
 
 # This will what will show against &copy; in the footer
-copyright: ' {{ date: "%y" }} Steven Watson Buehler'
+copyright: Steven Watson Buehler
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
 intro: true         # Tip: Remove the span from site_heading if intro is set to true

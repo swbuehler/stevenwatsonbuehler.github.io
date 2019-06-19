@@ -12,9 +12,9 @@
     <div class="user-footer">
         <div class="copyright alignable pull-left">
             {% if site.copyright %}
-                <h2> &copy;{{ site.copyright }}</h2>
+                <h2> &copy; {{ date: "%y" }} {{ site.copyright }}</h2>
             {% else %}
-                <h2> &copy;{{ site.title }}</h2>
+                <h2> &copy; {{ date: "%y" }} {{ site.title }}</h2>
             {% endif %}
         </div>
         <div class="alignable pull-right">
