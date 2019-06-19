@@ -6,7 +6,7 @@ baseurl: "/"
 
 # This will show up at the top of index page
 site_heading: >
-    Steven Watson Buehler<span class="faded">'s blog</span>
+    Steven Watson Buehler's blog
 
 email: stevenwatsonbuehler@icloud.com
 author: Steven Watson Buehler
