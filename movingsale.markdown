@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: I'm moving!
 author: Steven W. Buehler
 permalink: /moving
@@ -70,5 +70,3 @@ Furniture requires local pickup, as obviously I can't load it onto a Smart fortw
 # Appliances
 
 - LG 32-inch LCD TV (2)
-
-- 
