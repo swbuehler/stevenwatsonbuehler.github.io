@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: I'm moving!
 author: Steven W. Buehler
 permalink: /moving
