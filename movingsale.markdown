@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: I'm moving!
 author: Steven W. Buehler
 permalink: /moving
