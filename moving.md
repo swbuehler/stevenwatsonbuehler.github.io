@@ -9,6 +9,8 @@ I've turned in my notice to [BayVue](https://www.livebayvue.com) and am preparin
 
 Following is the starting list of stuff I'm parting with. To purchase, send a payment through <https://paypal.me/stevenwatsonb>, and in the note on the second page after entering an amount, include what you're interested in.
 
+_(Note: I will remove stuff from the below list as it sells, so hopefully you'll avoid sending me money for something I've already sent out)_
+
 ## BluRay/DVD Combos (Disney, $15 each):
 
 - _Beauty and the Beast_ Diamond Edition
