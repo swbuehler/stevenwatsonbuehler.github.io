@@ -9,12 +9,12 @@ I've turned in my notice to [BayVue](https://www.livebayvue.com) and am preparin
 
 Following is the starting list of stuff I'm parting with. To purchase, send a payment through <https://paypal.me/stevenwatsonb>, and in the note on the second page after entering an amount, include what you're interested in.
 
-# BluRay/DVD Combos (Disney, $15 each):
+## BluRay/DVD Combos (Disney, $15 each):
 
 - _Beauty and the Beast_ Diamond Edition
 - _The Lion King_ Diamond Edition
 
-# DVDs ($5 each):
+## DVDs ($5 each):
 
 - _Lord of the Dance_ - Michael Flatley
 - _God He Reigns_ - Hillsong Worship
@@ -52,7 +52,7 @@ Following is the starting list of stuff I'm parting with. To purchase, send a pa
 - _Worship_ - Michael W. Smith
 - _Monster_
 
-# Xbox One Games on Disc ($10 each)
+## Xbox One Games on Disc ($10 each)
 
 - _Halo 5: Guardians_
 - _Destiny_
